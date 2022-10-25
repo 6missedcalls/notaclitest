@@ -1,0 +1,11 @@
+{
+  "label": "My Cli Tool",
+  "fields": {
+    "name": {
+      "kind": 4
+    },
+    "age": {
+      "kind": 4
+    }
+  }
+}
